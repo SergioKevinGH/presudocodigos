@@ -1,1 +1,11 @@
-# presudocodigos
+# pseudocodigos
+![image](https://user-images.githubusercontent.com/118314930/204932171-179eaa00-82fe-44d5-93d9-5938039904d7.png)
+![image](https://user-images.githubusercontent.com/118314930/204932187-703efced-eb4f-47de-8df4-331ba6c34c95.png)
+![image](https://user-images.githubusercontent.com/118314930/204932215-621c9f17-2371-4c37-8169-b8d28acb8210.png)
+![image](https://user-images.githubusercontent.com/118314930/204932240-d90379bb-1b1c-47e8-947f-75fb88b88968.png)
+![image](https://user-images.githubusercontent.com/118314930/204932267-740c1d02-47a1-4180-86fe-48b09c58e502.png)
+![image](https://user-images.githubusercontent.com/118314930/204932291-bf778e78-34a8-4703-a582-41ec3d57051d.png)
+![image](https://user-images.githubusercontent.com/118314930/204932302-f8605e33-f9e6-478b-9046-c582972de791.png)
+![image](https://user-images.githubusercontent.com/118314930/204932327-f62ff937-8279-4669-9442-453de6929281.png)
+![image](https://user-images.githubusercontent.com/118314930/204932348-108e8e1c-9b1a-4296-a9f2-14d5606374ef.png)
+![image](https://user-images.githubusercontent.com/118314930/204932376-44bfdca4-925a-4173-828b-5afb95179cee.png)
